@@ -8,4 +8,5 @@ def model2():
 
 def model3():
     print('This is a model3 function')
-    
+
+print('Model2 has provided the best results so far')
