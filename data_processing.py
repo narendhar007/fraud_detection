@@ -9,6 +9,16 @@ b = 7
 
 def sum(a,b):
     c = a+b
-    return a
+    return c
 
 print('Added a sum function to the code')
+
+#Added Multiply function
+
+a = 10
+b = 50
+def multiply(a,b):
+    c = a*b
+    return d
+
+print('Added a multiply function to the code')
