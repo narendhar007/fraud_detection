@@ -1,4 +1,4 @@
-print('This is no longer a new file ml_model.py')
+print('This is a ML Model')
 
 def model1():
     print('This is a model1 function')
